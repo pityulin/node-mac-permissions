@@ -53,5 +53,5 @@
     "*.mm": [
       "clang-format -i"
     ]
-  },
+  }
 }
