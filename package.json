@@ -54,7 +54,4 @@
       "clang-format -i"
     ]
   },
-  "os": [
-    "darwin"
-  ]
 }
